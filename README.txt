@@ -12,6 +12,6 @@ This archive includes the following files.
 - The unscented Kalman filter is desigend in "ukf.m"
 - Matlab plot options are set in "SetPlotOptions.m"
 
-Copyright 2015 Seyed Abolfazl Fakoorian. All rights reserved. This code can be freely used for noncommercial purposes. This code can be freely distributed provided that this file is included with the distribution.
+All rights reserved. This code can be freely used for noncommercial purposes. This code can be freely distributed provided that this file is included with the distribution.
 
 Please provide proper acknowledgment of all uses of this code.
