@@ -13,5 +13,3 @@ This archive includes the following files.
 - Matlab plot options are set in "SetPlotOptions.m"
 
 All rights reserved. This code can be freely used for noncommercial purposes. This code can be freely distributed provided that this file is included with the distribution.
-
-Please provide proper acknowledgment of all uses of this code.
